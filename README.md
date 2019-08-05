@@ -2,3 +2,4 @@ Designing a decision making policy using Reinforcement Learning for opportunisti
 decentralized cognitive radio network. Each secondary user independently learns which subband would provide it with the most number
 of successful transmissions hence increasing the overall performance of the network.
 
+This doesn't contain the codes.
